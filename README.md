@@ -8,4 +8,4 @@
   <li>Miscellaneous: C++ and Bash.</li>
 </ul>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jackhughes03)](https://github.com/jackhughes03/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jackhughes03&show_icons=true&theme=radical)
